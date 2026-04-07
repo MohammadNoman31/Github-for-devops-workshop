@@ -1,0 +1,20 @@
+git commit -m "adding testing files"
+    git status
+    clear
+    rm testing.py
+    git status
+    git restore testing.py
+    rm testing.py
+    git restore testing.py
+    /usr/bin/python3 /Users/apple/Documents/documents/github-for-devops-workshop/testing.py
+    git status
+    /usr/bin/python3 /Users/apple/Documents/documents/github-for-devops-workshop/testing.py
+    git status
+    /usr/bin/python3 /Users/apple/Documents/documents/github-for-devops-workshop/testing.py
+    git status
+    clear
+    git status
+
+    git push origin master
+    clear
+this is some new chenges
